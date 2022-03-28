@@ -1,8 +1,51 @@
-# Documented-Trading-Solutions
-This repository is where I keep all my public backtests and algorithms to anyone who may find them fit, along with custom requests. Please DM me if you would like anything specific made, its all free.
+# Trading Tools Suite v1.0
 
-I do take custom requests, and I have helped ~30+ people increase workflow, for requests, please message me at:
-Gradyroche08@gmail.com 
+A comprehensive collection of algorithmic trading tools, ML models, and backtesting utilities.
 
-This is a copy of my previous repo! I unfortunately lost access to my previous email, and I am working my absolute hardest to post everything back to here.
-  - Im doing so without a laptop, its been broken for a few months so bear with me..
+## Features
+
+- Multiple trading strategies (mean reversion, momentum, pairs trading, arbitrage)
+- ML price prediction models (LSTM, XGBoost, Transformer, RL agents)
+- Technical indicators library
+- Full backtesting engine with performance metrics
+- Risk management and portfolio optimization
+- Automated data pipeline
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Quick Start
+
+```python
+from strategies.momentum import MomentumStrategy
+from utils.backtester import Backtester
+from utils.data_fetcher import DataFetcher
+
+# Fetch data
+fetcher = DataFetcher()
+data = fetcher.get_ohlcv("AAPL", period="2y")
+
+# Run strategy
+strategy = MomentumStrategy(lookback=20)
+bt = Backtester(strategy)
+results = bt.run(data)
+print(results.summary())
+```
+
+## Structure
+
+```
+├── strategies/     # Trading strategy implementations
+├── models/         # ML prediction models
+├── indicators/     # Technical indicators
+├── utils/          # Backtesting, risk management, data fetching
+├── data/           # Data pipeline and preprocessing
+└── tests/          # Unit and integration tests
+```
+
+## Status
+
+Work in progress. See individual module docstrings for implementation status.
