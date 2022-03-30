@@ -1,0 +1,20 @@
+# Trading Tools Configuration v1
+
+data:
+  default_provider: yfinance
+  cache_dir: ./cache
+  default_timeframe: 1d
+
+backtest:
+  initial_capital: 100000
+  commission: 0.001
+  slippage: 0.0005
+
+risk:
+  max_position_size: 0.10
+  max_drawdown: 0.20
+  stop_loss_pct: 0.02
+
+logging:
+  level: INFO
+  file: logs/trading.log
