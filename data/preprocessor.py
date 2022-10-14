@@ -1,6 +1,6 @@
 """Data Preprocessing Pipeline
 
-# v3: improved implementation
+# v2: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
