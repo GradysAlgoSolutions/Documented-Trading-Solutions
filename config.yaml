@@ -1,4 +1,4 @@
-# Trading Tools Configuration v5
+# Trading Tools Configuration v6
 
 data:
   default_provider: yfinance
