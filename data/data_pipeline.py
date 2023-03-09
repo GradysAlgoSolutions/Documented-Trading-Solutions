@@ -1,5 +1,7 @@
 """End-To-End Data Pipeline
 
+# v2: improved implementation
+
 TODO: Replace stub with actual implementation.
 """
 import numpy as np
