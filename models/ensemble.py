@@ -1,6 +1,6 @@
 """Ensemble Model Wrapper
 
-# v4: improved implementation
+# v5: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
