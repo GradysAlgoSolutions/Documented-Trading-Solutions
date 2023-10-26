@@ -1,6 +1,6 @@
 """Position Sizing Calculator
 
-# v2: improved implementation
+# v3: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
