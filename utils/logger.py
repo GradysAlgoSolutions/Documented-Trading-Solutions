@@ -1,5 +1,7 @@
 """Logging Utility
 
+# v2: improved implementation
+
 TODO: Replace stub with actual implementation.
 """
 import numpy as np
