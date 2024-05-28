@@ -1,6 +1,6 @@
 """Momentum Trading Strategy
 
-# v6: improved implementation
+# v7: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
