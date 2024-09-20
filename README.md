@@ -1,4 +1,4 @@
-# Trading Tools Suite v23.69
+# Trading Tools Suite v24.72
 
 A comprehensive collection of algorithmic trading tools, ML models, and backtesting utilities.
 
