@@ -1,6 +1,6 @@
 """Macd Indicator
 
-# v5: improved implementation
+# v6: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
