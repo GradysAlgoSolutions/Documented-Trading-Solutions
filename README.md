@@ -1,4 +1,4 @@
-# Trading Tools Suite v31.93
+# Trading Tools Suite v32.96
 
 A comprehensive collection of algorithmic trading tools, ML models, and backtesting utilities.
 
