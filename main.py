@@ -1,5 +1,5 @@
 """
-Trading Tools - Main Entry Point (v11)
+Trading Tools - Main Entry Point (v12)
 
 Run backtests, live trading, or analysis from the command line.
 """
