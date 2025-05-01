@@ -1,6 +1,6 @@
 """Rsi Indicator
 
-# v12: improved implementation
+# v13: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
