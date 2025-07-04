@@ -1,6 +1,6 @@
 """Database Connector
 
-# v11: improved implementation
+# v12: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
