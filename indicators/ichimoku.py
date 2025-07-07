@@ -1,6 +1,6 @@
 """Ichimoku Cloud Indicator
 
-# v7: improved implementation
+# v8: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
