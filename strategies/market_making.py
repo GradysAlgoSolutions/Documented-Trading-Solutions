@@ -1,6 +1,6 @@
 """Market Making Strategy
 
-# v10: improved implementation
+# v11: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
