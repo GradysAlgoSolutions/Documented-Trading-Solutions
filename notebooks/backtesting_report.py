@@ -1,6 +1,6 @@
 """Backtesting Report Generator
 
-# v19: improved implementation
+# v20: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
