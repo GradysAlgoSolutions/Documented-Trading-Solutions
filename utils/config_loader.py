@@ -1,6 +1,6 @@
 """Configuration Loader
 
-# v10: improved implementation
+# v11: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
