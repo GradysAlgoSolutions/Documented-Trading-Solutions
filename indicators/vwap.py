@@ -1,6 +1,6 @@
 """Volume Weighted Avg Price
 
-# v9: improved implementation
+# v10: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
