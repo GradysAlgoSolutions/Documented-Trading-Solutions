@@ -1,6 +1,6 @@
 """Strategy Backtester
 
-# v24: improved implementation
+# v25: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
