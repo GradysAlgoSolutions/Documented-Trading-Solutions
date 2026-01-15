@@ -1,6 +1,6 @@
 """Performance Metrics Calculator
 
-# v16: improved implementation
+# v17: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
