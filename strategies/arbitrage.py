@@ -1,6 +1,6 @@
 """Arbitrage Strategy
 
-# v14: improved implementation
+# v15: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
