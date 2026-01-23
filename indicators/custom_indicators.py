@@ -1,6 +1,6 @@
 """Custom Composite Indicators
 
-# v15: improved implementation
+# v16: improved implementation
 
 TODO: Replace stub with actual implementation.
 """
